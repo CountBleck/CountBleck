@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm currently a high school junior (graduating in 2026) using the moniker CountBleck.
+I'm currently a high school senior (graduating in 2026) using the moniker CountBleck.
 
 * **Interests**: *WebAssembly*, web dev; to a lesser extent, cryptography as well
 * **Location**: Los Angeles, CA
